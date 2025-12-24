@@ -1,0 +1,4 @@
+PyAudio
+google-genai
+asyncio
+flet
